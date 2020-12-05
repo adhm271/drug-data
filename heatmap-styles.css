@@ -25,6 +25,10 @@
             color: #fff;
         }
 
+        #heatmap-search {
+                width: 220px;
+        }
+
         #heatmap td {
         min-width: 3em;
         padding: 0;
